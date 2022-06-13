@@ -4,6 +4,12 @@
 ![emotion_detection](https://github.com/Jubermomin/Music-Recommendation-On-Facial-expressions/blob/105c750f9554a45f95530f34189f8411fc09612c/Screenshot%20(2).png)
 
 
+# Download Zip File including all data
+# Copy Below link and paste into browser to download it.
+
+https://drive.google.com/file/d/1R-B9-2Dx61GLRshCT-sW3Ebynfq9YhjN/view?usp=sharing)
+
+
 ### Packages need to be installed
 pip install -r requirements.txt
 
