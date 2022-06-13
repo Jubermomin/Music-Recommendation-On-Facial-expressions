@@ -1,6 +1,6 @@
 # MUSIC-RECOMMENDATION-ON-FACIAL-EXPRESSION
 
-![emotion_detection](https://drive.google.com/file/d/1JElDkqmhMRlfbE9tFPCRIWFvXHh-LQWu/view?usp=sharing)
+![emotion_detection](Screenshot (1).png)
 ![emotion_detection](https://drive.google.com/file/d/1_zwfHdYkNwqZF8EpDcfl191SH51uQbLd/view?usp=sharing)
 
 
