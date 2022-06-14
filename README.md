@@ -26,4 +26,5 @@ pip install -r requirements.txt
 copy these two files create model folder in your project directory and paste it.
 
 ### run your emotion detection test file
+
 python Facial_Expressions_Recog.py
